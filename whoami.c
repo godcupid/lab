@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-	printf("1023016\n");
+printf("1023016\n");
 	printf("1022997\n");
 	printf("1023008\n");
 	printf("1022998\n");
@@ -38,6 +38,8 @@ int main() {
 	printf("1023004\n");
 	printf("1022995\n");
 	printf("1023000\n");
+	printf("1023022\n");
+	printf("1023024\n");
 	printf("1024922\n");
 
 	return 0;
